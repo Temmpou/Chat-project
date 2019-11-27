@@ -3,3 +3,9 @@
     width: 3%;
     height: 3vh;
 }
+
+#input {
+    border-radius: 3vh;
+    height: 5vh;
+    width: 30%;
+}
